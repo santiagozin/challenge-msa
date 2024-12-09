@@ -38,8 +38,7 @@ docker-compose down
 
 # ENV
 
-MONGODB_URI=mongodb+srv://tecnica-msa:tecnica-msa@cluster0.obrls.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-PORT=4000
+Configurar archivo .env con db
 
 # TEST
 

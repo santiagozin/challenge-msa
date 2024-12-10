@@ -32,7 +32,7 @@ docker-compose down
 Instalar dependencias del frontend:
 
 ```bash
-cd frontend
+cd app
 npm install
 ```
 

@@ -9,7 +9,7 @@ Challenge Sr/Ssr Fullstack - MSA
 Clonar repositorio:
 
 ```bash
-git clone https://github.com/roxom-markets/interview-js
+git clone https://github.com/santiagozin/challenge-msa
 ```
 
 # Iniciar proyecto con Docker
